@@ -1,0 +1,1 @@
+artist.interface.ts
